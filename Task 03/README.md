@@ -2,7 +2,8 @@
 
 > *"In the arena of code, only the brave submit their work!"* 🎮
 
-![Submissions](https://img.shields.io/badge/Submissions-Waiting-yellow)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-18%2014%3A05%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-3-green)
 
 ## 🎯 The Challenge
 Build a Reddit Browser that fetches real data, displays posts beautifully, and works on mobile!
@@ -11,7 +12,14 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 
 ## 🏅 Hall of Fame
 
-*🎭 The stage is empty... Submit your code to claim your throne!*
+### 🥇 First Place
+**Himath_Dhanapala** - 99/100 | Absolutely legendary! 🔥
+
+### 🥈 Second Place
+**Kalana_Pankaja** - 99/100 | Absolutely legendary! 🔥
+
+### 🥉 Third Place
+**Suhas_Dissa** - 99/100 | Absolutely legendary! 🔥
 
 ---
 
@@ -19,7 +27,9 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 
 | Rank | Student | Score | Grade | Title | Last Updated | Attempts |
 |:----:|---------|:-----:|:-----:|-------|--------------|:--------:|
-| 🏜️ | *Waiting for brave coders...* | - | - | - | - | - |
+| 🥇 | **Himath_Dhanapala** | 99/100 | 🌟 A | 👑 Supreme Redditor | 2025-12-18 14:05 UTC | 1 |
+| 🥈 | **Kalana_Pankaja** | 99/100 | 🌟 A | 🥈 Code Wizard | 2025-12-18 14:05 UTC | 1 |
+| 🥉 | **Suhas_Dissa** | 99/100 | 🌟 A | 🥉 Rising Star | 2025-12-18 14:05 UTC | 1 |
 
 ---
 
@@ -33,6 +43,14 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 | 💻 Code Quality | 15 | Multiple functions, DOM manipulation, clean code |
 | 📱 Responsive | 10 | Media queries, mobile-friendly |
 | 🎁 Bonus | +5 | Video support |
+
+---
+
+## 🚀 Recent Activity
+
+- **Himath_Dhanapala** updated their submission → 99/100 (2025-12-18 14:05 UTC)
+- **Kalana_Pankaja** updated their submission → 99/100 (2025-12-18 14:05 UTC)
+- **Suhas_Dissa** updated their submission → 99/100 (2025-12-18 14:05 UTC)
 
 ---
 
