@@ -41,7 +41,11 @@ jobs:
           fi
           
           # Get list of changed files
-          if [ "${{ github.event_name }}" == "pull_request" ]; then
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            # Manual trigger - grade ALL submissions
+            echo "📌 Manual trigger detected - grading ALL submissions"
+            CHANGED_FILES=$(find "$SUBMISSIONS_DIR" -name "index.html" -type f)
+          elif [ "${{ github.event_name }}" == "pull_request" ]; then
             # For PR, compare with base branch
             CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
           else
