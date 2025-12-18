@@ -419,21 +419,6 @@ jobs:
               else:
                   return "🚀 Just Getting Started"
           
-          # Fun comments based on score
-          def get_fun_comment(score, grade):
-              if score >= 95:
-                  return "Absolutely legendary! 🔥"
-              elif score >= 90:
-                  return "Outstanding work! 🎯"
-              elif score >= 80:
-                  return "Crushing it! 💪"
-              elif score >= 70:
-                  return "Solid effort! 👍"
-              elif score >= 60:
-                  return "Getting there! 📚"
-              else:
-                  return "Keep learning! 🌱"
-          
           # Generate README
           readme = """# 🏆 Reddit Browser Challenge - Live Leaderboard
 
@@ -455,17 +440,17 @@ jobs:
           if len(sorted_results) >= 1:
               readme += "### 🥇 First Place\n"
               r = sorted_results[0]
-              readme += f"**{r['student']}** - {r['total']}/100 | {get_fun_comment(r['total'], r['grade'])}\n\n"
+              readme += f"**{r['student']}** - {r['total']}/100\n\n"
           
           if len(sorted_results) >= 2:
               readme += "### 🥈 Second Place\n"
               r = sorted_results[1]
-              readme += f"**{r['student']}** - {r['total']}/100 | {get_fun_comment(r['total'], r['grade'])}\n\n"
+              readme += f"**{r['student']}** - {r['total']}/100\n\n"
           
           if len(sorted_results) >= 3:
               readme += "### 🥉 Third Place\n"
               r = sorted_results[2]
-              readme += f"**{r['student']}** - {r['total']}/100 | {get_fun_comment(r['total'], r['grade'])}\n\n"
+              readme += f"**{r['student']}** - {r['total']}/100\n\n"
           
           readme += """---
 
