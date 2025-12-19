@@ -29,5 +29,34 @@
     "grade": "F",
     "last_updated": "2025-12-18 19:28 UTC",
     "submission_count": 1
+  },
+  "suhas": {
+    "student": "suhas",
+    "file_structure": 5,
+    "semantic_html": 5,
+    "functionality": 0,
+    "design": 4,
+    "responsive": 4,
+    "issues": [
+      "\u26a0\ufe0f Missing style.css",
+      "\u274c Missing images/ folder",
+      "\u274c No <nav> tag",
+      "\u274c No <main> tag",
+      "\u26a0\ufe0f No <article> tags for projects",
+      "\u26a0\ufe0f Incomplete anchor navigation",
+      "\u274c No form or labels",
+      "\u26a0\ufe0f Limited input fields",
+      "\u26a0\ufe0f No details/summary (collapsible sections)",
+      "\u274c No lists (ul/ol)",
+      "\u26a0\ufe0f Minimal color styling",
+      "\u26a0\ufe0f No grid/flex layout",
+      "\u26a0\ufe0f No hover effects",
+      "\u274c No media queries - not responsive",
+      "\u26a0\ufe0f May use fixed pixel widths"
+    ],
+    "total": 18,
+    "grade": "F",
+    "last_updated": "2025-12-19 06:26 UTC",
+    "submission_count": 1
   }
 }
