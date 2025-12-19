@@ -2,7 +2,7 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2007%3A21%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2007%3A23%20UTC-blue)
 ![Submissions](https://img.shields.io/badge/Submissions-7-green)
 
 ## 🎯 The Challenge
@@ -29,7 +29,7 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 |:----:|---------|:-----:|:-----:|-------|--------------|
 | 🥇 | **Dihini** | 73/100 | 👌 C | 👑 Portfolio Legend | 2025-12-19 07:21 UTC |
 | 🥈 | **vishwa** | 60/100 | 📝 D | 🥈 Design Master | 2025-12-19 06:33 UTC |
-| 🥉 | **Binuka** | 56/100 | 🔨 F | 🥉 Rising Designer | 2025-12-19 06:39 UTC |
+| 🥉 | **Binuka** | 56/100 | 🔨 F | 🥉 Rising Designer | 2025-12-19 07:23 UTC |
 | 4 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:35 UTC |
 | 5 | **athishaya.j** | 31/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:47 UTC |
 | 6 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:26 UTC |
@@ -51,9 +51,9 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **Binuka** updated their portfolio → 56/100 (2025-12-19 07:23 UTC)
 - **Dihini** updated their portfolio → 73/100 (2025-12-19 07:21 UTC)
 - **athishaya.j** updated their portfolio → 31/100 (2025-12-19 06:47 UTC)
-- **Binuka** updated their portfolio → 56/100 (2025-12-19 06:39 UTC)
 - **Sachini_Gunasekara** updated their portfolio → 38/100 (2025-12-19 06:35 UTC)
 - **vishwa** updated their portfolio → 60/100 (2025-12-19 06:33 UTC)
 
