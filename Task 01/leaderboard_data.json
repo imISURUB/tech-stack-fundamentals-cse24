@@ -314,5 +314,24 @@
     "grade": "F",
     "last_updated": "2025-12-23 06:30 UTC",
     "submission_count": 1
+  },
+  "Kalaippiriyan_Jeyaganesh": {
+    "student": "Kalaippiriyan_Jeyaganesh",
+    "file_structure": 10,
+    "semantic_html": 10,
+    "functionality": 13,
+    "design": 23,
+    "responsive": 20,
+    "issues": [
+      "\u274c No <nav> tag",
+      "\u274c No <header> tag",
+      "\u26a0\ufe0f No details/summary (collapsible sections)",
+      "\u274c No lists (ul/ol)",
+      "\u26a0\ufe0f Missing alt text on images"
+    ],
+    "total": 76,
+    "grade": "C",
+    "last_updated": "2025-12-23 11:22 UTC",
+    "submission_count": 1
   }
 }
