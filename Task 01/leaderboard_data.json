@@ -333,5 +333,22 @@
     "grade": "C",
     "last_updated": "2025-12-23 11:22 UTC",
     "submission_count": 1
+  },
+  "Binura_Yeshan": {
+    "student": "Binura_Yeshan",
+    "file_structure": 7,
+    "semantic_html": 20,
+    "functionality": 18,
+    "design": 20,
+    "responsive": 8,
+    "issues": [
+      "\u274c Missing images/ folder",
+      "\u26a0\ufe0f Incomplete anchor navigation",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 73,
+    "grade": "C",
+    "last_updated": "2025-12-24 19:42 UTC",
+    "submission_count": 1
   }
 }
